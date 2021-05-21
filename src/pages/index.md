@@ -44,6 +44,12 @@ sections:
             label: Learn More
             url: /features
             style: secondary
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
       - type: feature
         title: Feature 2
         content: >-
