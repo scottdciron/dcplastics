@@ -8,9 +8,8 @@ tags: []
 image: /images/correct-fab8.jpg
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  A five storey care home in Newcastle highlighting the importance of correct
+  fabrication to ensure a perfect finish at the corners on the flights.
 seo:
   type: stackbit_page_meta
   title: Amet Nulla Facilisi Morbi Tempus
