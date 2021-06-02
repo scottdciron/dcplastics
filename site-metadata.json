@@ -19,7 +19,7 @@
             {
                 "type": "action",
                 "label": "Our Work",
-                "url": "/our-work",
+                "url": "/blog",
                 "style": "link"
             },
             {
