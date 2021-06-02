@@ -9,7 +9,6 @@ sections:
       to contact us.  E-mail us at enquiries@dcplastics.co.uk call us on 0191
       4881112 or use the contact form below.
   - type: contact_section
-  - type: contact_section
 seo:
   type: stackbit_page_meta
   title: Contact
