@@ -6,7 +6,6 @@ categories:
   - src/data/categories/news.yaml
 tags:
   - JAMstack
-  - Sourcebit
 image: /images/hamilton-2-after.jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
