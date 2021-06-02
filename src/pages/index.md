@@ -101,6 +101,10 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+    subtitle: >-
+      Once you have decided that DC Plastic Handrails is the right company for
+      your needs, get a quote using the details below or contact us if you have
+      further questions.
 seo:
   type: stackbit_page_meta
   title: Stackbit Starter Theme
