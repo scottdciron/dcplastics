@@ -7,7 +7,6 @@ sections:
   - type: features_section
     features:
       - type: feature
-        title: Feature 1
         content: >
           Strong, stylish and practical, with colours and finishes that will
           enhance any staircase. They also meet the requirements of the
