@@ -2,15 +2,6 @@ id: lorem-ipsum
 link: lorem-ipsum
 first_name: Oval to suit 40x8mm Flat Bar
 photo_alt: lorem-ipsum
-bio: >-
-  ## Lorem ipsum
-
-
-  Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-
-
-  - Lorem ipsum
-
-  - dolor sit amet
+bio: |
+  By far the most popular size and available in all 14 colourways. 
 type: person
