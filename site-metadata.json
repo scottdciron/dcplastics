@@ -85,16 +85,7 @@
             }
         ],
         "content": "&copy; DC Handrails & Ironwork Parts Ltd. All rights reserved.",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://dcplastics-7b126.netlify.app",
     "title": "DC Plastic Handrails - PVC Handrail Capping"
