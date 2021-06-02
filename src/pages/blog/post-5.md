@@ -1,7 +1,6 @@
 ---
 title: Newcastle Care Home
 date: '2020-06-02'
-author: src/data/team/gordon-norman.yaml
 categories: []
 tags: []
 image: /images/correct-fab8.jpg
