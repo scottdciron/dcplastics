@@ -8,9 +8,8 @@ tags: []
 image: /images/hamilton-2-after.jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  We were asked to supply and fit plastic handrail capping for apartments in
+  Hamilton, Scotland. We fitted the requested colour Red onto a 40×8 core rail.
 seo:
   type: stackbit_page_meta
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
