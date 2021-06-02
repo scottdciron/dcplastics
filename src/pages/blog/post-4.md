@@ -4,8 +4,7 @@ date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/news.yaml
-tags:
-  - JAMstack
+tags: []
 image: /images/hamilton-2-after.jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
