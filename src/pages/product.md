@@ -59,7 +59,7 @@ sections:
     team:
       - src/data/team/person-k4gsoa92s.yaml
     type: team_section
-  - title: lorem-ipsum
+  - title: Specifications
     team: []
     type: team_section
 seo:
