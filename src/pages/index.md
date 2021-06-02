@@ -29,10 +29,11 @@ sections:
     features:
       - type: feature
         title: Our Product
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Our plastic handrail covering is available in five sizes and a range
+          of 14 colourways. Strong, stylish and practical with colours and
+          finishes that will enhance any staircase. They also meet the
+          requirements of the Disability Discrimination Act for ramped access.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
