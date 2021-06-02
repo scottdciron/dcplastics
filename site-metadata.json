@@ -7,6 +7,12 @@
         "nav_links": [
             {
                 "type": "action",
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "type": "action",
                 "label": "Features",
                 "url": "/features",
                 "style": "link"
@@ -15,12 +21,6 @@
                 "type": "action",
                 "label": "Blog",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "About",
-                "url": "/about",
                 "style": "link"
             },
             {
