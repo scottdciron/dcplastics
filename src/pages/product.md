@@ -16,7 +16,6 @@ sections:
 
           ![](https://www.dciron.co.uk/media/catalog/product/cache/f60de88e9e86690236994a1463e63de1/p/h/phbk3\_01.jpg)
         align: left
-        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
