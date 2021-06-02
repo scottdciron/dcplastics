@@ -89,7 +89,8 @@ sections:
       - dolor sit amet
     type: content_section
   - title: lorem-ipsum
-    team: []
+    team:
+      - src/data/team/person-k4gsoa92s.yaml
     type: team_section
 seo:
   type: stackbit_page_meta
