@@ -99,7 +99,7 @@ sections:
         label: Contact Us
         url: /contact
         style: primary
-      - label: lorem-ipsum
+      - label: Get a Quote
         url: /quote
         style: secondary
         new_window: false
