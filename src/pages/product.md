@@ -9,12 +9,50 @@ sections:
       - type: feature
         title: Feature 1
         content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
 
 
-          ![](https://www.dciron.co.uk/media/catalog/product/cache/f60de88e9e86690236994a1463e63de1/p/h/phbk3\_01.jpg)
+          Strong, stylish and practical, with colours and finishes that will
+          enhance any staircase. They also meet the requirements of the
+          Disability Discrimination Act for ramped access.
+
+
+
+          The standard 40 x 8mm oval profile comes in a wide variety of matt and
+          high gloss colours. Alternatively, there is a choice of wood grain and
+          metallic effects.
+
+
+          Additional sizes of oval handrail are available to fit 30 x 8, 50 x 8
+          and 60 x 8 rails, in a range of popular colours.
+
+
+          The surface gives the handrail an attractive, robust character and a
+          long service life as the profile is:
+
+
+          *   scratch and abrasion resistant
+
+
+          *   stain-resistant
+
+
+          *   easy to maintain
+
+
+          *   colour fast
+
+
+          *   ergonomic
+
+
+          *   shock-resistant
+
+
+          *   economical
+
+
+          The specifications for each of the handrail profiles can be found
+          below.
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
