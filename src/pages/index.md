@@ -96,7 +96,7 @@ sections:
     title: Get in touch
     actions:
       - type: action
-        label: Learn MoreC
+        label: Contact Us
         url: /contact
         style: primary
     has_background: true
