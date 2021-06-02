@@ -34,6 +34,10 @@ sections:
           of 14 colourways. Strong, stylish and practical with colours and
           finishes that will enhance any staircase. They also meet the
           requirements of the Disability Discrimination Act for ramped access.
+
+
+          We are the main stockist and distributor of Rehau profiles in the UK
+          and can deliver next day on a supply only basis.  
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
