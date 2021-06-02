@@ -52,7 +52,7 @@ sections:
             label: Learn More
             url: /blog
             style: primary
-  - title: lorem-ipsum
+  - title: Colours
     features:
       - title: lorem-ipsum
         content: >-
