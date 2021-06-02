@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Fitting Plastic Handrail Capping in the UK Since 1984
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "DC Plastic Handrails has over 25 years of experience in fitting plastic handrail capping and have grown to become one of the leading fitters of PVC handrail covering in the UK.\_ We are based in Newcastle upon Tyne and can travel to anywhere in the UK."
     actions:
       - type: action
         label: Learn More
