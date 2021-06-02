@@ -8,51 +8,7 @@ sections:
     features:
       - type: feature
         title: Feature 1
-        content: >
-
-
-          Strong, stylish and practical, with colours and finishes that will
-          enhance any staircase. They also meet the requirements of the
-          Disability Discrimination Act for ramped access.
-
-
-
-          The standard 40 x 8mm oval profile comes in a wide variety of matt and
-          high gloss colours. Alternatively, there is a choice of wood grain and
-          metallic effects.
-
-
-          Additional sizes of oval handrail are available to fit 30 x 8, 50 x 8
-          and 60 x 8 rails, in a range of popular colours.
-
-
-          The surface gives the handrail an attractive, robust character and a
-          long service life as the profile is:
-
-
-          *   scratch and abrasion resistant
-
-
-          *   stain-resistant
-
-
-          *   easy to maintain
-
-
-          *   colour fast
-
-
-          *   ergonomic
-
-
-          *   shock-resistant
-
-
-          *   economical
-
-
-          The specifications for each of the handrail profiles can be found
-          below.
+        content: "Strong, stylish and practical, with colours and finishes that will enhance any staircase. They also meet the requirements of the Disability Discrimination Act for ramped access.\n\nThe standard 40 x 8mm oval profile comes in a wide variety of matt and high gloss colours. Alternatively, there is a choice of wood grain and metallic effects.\n\nAdditional sizes of oval handrail are available to fit 30 x 8, 50 x 8 and 60 x 8 rails, in a range of popular colours.\n\nThe surface gives the handrail an attractive, robust character and a long service life as the profile is:\n\n*   scratch and abrasion resistant\n\n*   stain-resistant\r\n\n*   easy to maintain\r\n\n*   colour fast\r\n\n*   ergonomic\r\n\n*   shock-resistant\r\n\n*   economical\n\nThe specifications for each of the handrail profiles can be found below.\n"
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
