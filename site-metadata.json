@@ -35,8 +35,7 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ],
-        "logo": "/images/dcplastic logo.jpg"
+        ]
     },
     "footer": {
         "type": "footer",
