@@ -52,6 +52,9 @@ sections:
             label: Learn More
             url: /blog
             style: primary
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   type: stackbit_page_meta
   title: Features
