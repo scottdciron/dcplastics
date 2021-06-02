@@ -2,8 +2,7 @@
 title: Newcastle Care Home
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
-categories:
-  - src/data/categories/tutorials.yaml
+categories: []
 tags: []
 image: /images/correct-fab8.jpg
 image_alt: Post 5 placeholder image
