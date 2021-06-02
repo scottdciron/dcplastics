@@ -63,6 +63,7 @@ sections:
     team:
       - src/data/team/person-bcstlupxg.yaml
       - src/data/team/person-xq8crqtl4.yaml
+      - src/data/team/person-v2c9dpeoc.yaml
     type: team_section
 seo:
   type: stackbit_page_meta
