@@ -60,21 +60,6 @@ sections:
             label: Learn More
             url: /about
             style: primary
-      - type: feature
-        title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        align: left
-        image: images/feature.svg
-        image_alt: Feature 2 placeholder image
-        image_position: left
-        actions:
-          - type: action
-            label: Learn More
-            url: /style-guide
-            style: primary
   - title: Colours
     team:
       - src/data/team/person-k4gsoa92s.yaml
