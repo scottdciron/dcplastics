@@ -100,7 +100,7 @@ sections:
         url: /contact
         style: primary
       - label: lorem-ipsum
-        url: '#'
+        url: /quote
         style: secondary
         new_window: false
         no_follow: false
