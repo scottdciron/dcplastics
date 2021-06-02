@@ -18,7 +18,7 @@
             },
             {
                 "type": "action",
-                "label": "Blog",
+                "label": "Our Work",
                 "url": "/blog",
                 "style": "link"
             },
