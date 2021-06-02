@@ -27,7 +27,7 @@ sections:
       - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
   - type: cta_section
-    title: Join the Team
+    title: Like the sound of us?
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - type: action
