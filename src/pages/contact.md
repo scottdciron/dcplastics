@@ -5,6 +5,7 @@ sections:
     title: Contact
     align: center
   - type: contact_section
+  - type: contact_section
 seo:
   type: stackbit_page_meta
   title: Contact
