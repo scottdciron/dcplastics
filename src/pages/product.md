@@ -3,7 +3,6 @@ title: Product
 sections:
   - type: hero_section
     title: Product Information
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     align: center
   - type: features_section
     features:
