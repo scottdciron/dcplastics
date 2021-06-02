@@ -42,6 +42,7 @@ sections:
   - title: Colours
     team:
       - src/data/team/person-k4gsoa92s.yaml
+      - src/data/team/person-4x7001e39.yaml
     type: team_section
   - title: Sizes
     team:
