@@ -39,20 +39,6 @@ sections:
             label: Learn More
             url: /style-guide
             style: primary
-      - type: feature
-        title: Feature 3
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
-        align: left
-        image_alt: Feature 3 placeholder image
-        image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /blog
-            style: primary
   - title: Colours
     team:
       - src/data/team/person-k4gsoa92s.yaml
