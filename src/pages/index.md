@@ -49,8 +49,21 @@ sections:
             style: secondary
       - type: feature
         title: Fitting Service
-        content: |
-          We have been travelling 
+        content: >
+          We have been travelling all over the UK since 1984 fitting our high
+          quality Rehau plastic handrail covering in schools, hospitals, council
+          buildings, apartment blocks and much more. 
+
+
+          Fitting plastic handrail capping is a specialist building trade of
+          which there are only a few companies operating such service in the UK.
+          Using a professional fitting service from DC Plastic Handrails is the
+          only way to guarantee a high quality installation that will last for
+          many years to come. 
+
+
+          All we need to offer a quote is the job location, size of core rail,
+          colour required and approximate meterage. 
         align: left
         image: /images/1.png
         image_alt: Feature 2 placeholder image
