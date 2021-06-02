@@ -88,6 +88,9 @@ sections:
 
       - dolor sit amet
     type: content_section
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 seo:
   type: stackbit_page_meta
   title: Features
