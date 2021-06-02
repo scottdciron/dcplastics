@@ -62,6 +62,7 @@ sections:
   - title: Sizes
     team:
       - src/data/team/person-bcstlupxg.yaml
+      - src/data/team/person-xq8crqtl4.yaml
     type: team_section
 seo:
   type: stackbit_page_meta
