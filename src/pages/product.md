@@ -60,7 +60,8 @@ sections:
       - src/data/team/person-k4gsoa92s.yaml
     type: team_section
   - title: Specifications
-    team: []
+    team:
+      - src/data/team/person-bcstlupxg.yaml
     type: team_section
 seo:
   type: stackbit_page_meta
