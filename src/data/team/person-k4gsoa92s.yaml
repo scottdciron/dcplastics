@@ -3,13 +3,13 @@ link: lorem-ipsum
 first_name: 'Black '
 last_name: RAL601
 photo_alt: lorem-ipsum
-bio: |+
+bio: |
   Available in sizes
 
   *   30x8
   *   40x8
   *   50x8
+  *   60x8
   *   40x8 Circular
-
 type: person
 photo: /images/PHBK3_01.jpg
