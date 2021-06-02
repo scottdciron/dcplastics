@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/black-plastic-handrail-home.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
