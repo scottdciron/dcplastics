@@ -5,19 +5,7 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: "DC Plastic Handrails is a family run business with over 35 years of experience in fitting plastic handrail capping and have grown to become one of the leading fitters of PVC handrail covering in the UK.\_ We are based in Newcastle upon Tyne and can travel to anywhere in the UK.\n\nWe have completed work for a wide variety of businesses and individuals including large building companies, schools, councils, hospitals, DIY and many more.\n"
   - type: team_section
     title: Our Team
     team:
