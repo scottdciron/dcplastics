@@ -7,7 +7,7 @@ sections:
     actions:
       - type: action
         label: About Us
-        url: /features
+        url: /about
         style: primary
       - type: action
         label: Contact Us
