@@ -8,7 +8,7 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: /images/hamilton-2-after.jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
