@@ -55,9 +55,6 @@ sections:
             label: Learn More
             url: /blog
             style: primary
-  - title: Colours
-    features: []
-    type: features_section
   - title: lorem-ipsum
     team:
       - src/data/team/person-k4gsoa92s.yaml
