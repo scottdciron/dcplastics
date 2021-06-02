@@ -65,7 +65,7 @@ sections:
           All we need to offer a quote is the job location, size of core rail,
           colour required and approximate meterage. 
         align: left
-        image: /images/1.png
+        image: /images/plastic-handrail-fitting.jpg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
