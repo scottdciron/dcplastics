@@ -4,6 +4,10 @@ sections:
   - type: hero_section
     title: Contact
     align: center
+    subtitle: >-
+      If our website has not answered your question, then please do not hesitate
+      to contact us.  E-mail us at enquiries@dcplastics.co.uk call us on 0191
+      4881112 or use the contact form below.
   - type: contact_section
   - type: contact_section
 seo:
