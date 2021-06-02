@@ -71,7 +71,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /product
             style: secondary
   - type: blog_feed_section
     title: Our Work
