@@ -14,7 +14,7 @@
                 "type": "action",
                 "label": "Product",
                 "url": "/features",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "type": "action",
