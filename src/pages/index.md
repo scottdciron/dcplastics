@@ -39,7 +39,7 @@ sections:
           We are the main stockist and distributor of Rehau profiles in the UK
           and can deliver next day on a supply only basis.  
         align: left
-        image: images/feature.svg
+        image: /images/capping-colours.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
