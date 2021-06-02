@@ -12,7 +12,7 @@
             },
             {
                 "type": "action",
-                "label": "Features",
+                "label": "Product",
                 "url": "/features",
                 "style": "link"
             },
