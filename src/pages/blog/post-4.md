@@ -3,7 +3,8 @@ title: Apartments in Scotland
 date: '2020-05-30'
 categories:
   - src/data/categories/news.yaml
-tags: []
+tags:
+  - lorem-ipsum
 image: /images/hamilton-2-after.jpg
 image_alt: Post 4 placeholder image
 excerpt: >-
