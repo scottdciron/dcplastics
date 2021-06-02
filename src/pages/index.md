@@ -45,10 +45,8 @@ sections:
             style: secondary
       - type: feature
         title: Fitting Service
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          We have been travelling 
         align: left
         image: /images/1.png
         image_alt: Feature 2 placeholder image
