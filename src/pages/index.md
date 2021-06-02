@@ -97,7 +97,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /features
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
