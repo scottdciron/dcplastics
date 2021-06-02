@@ -28,7 +28,9 @@ sections:
       - src/data/team/gordon-norman.yaml
   - type: cta_section
     title: Like the sound of us?
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Get in touch and one of our friendly team will be able to discuss your
+      requirements or get you a competitive quote and get your job sorted.
     actions:
       - type: action
         label: Contact Us
