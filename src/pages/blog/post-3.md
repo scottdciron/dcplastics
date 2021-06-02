@@ -9,10 +9,7 @@ tags:
   - JAMstack
 image: images/3.png
 image_alt: Post 3 placeholder image
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: Q
 seo:
   type: stackbit_page_meta
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
