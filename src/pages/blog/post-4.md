@@ -1,7 +1,6 @@
 ---
 title: Apartments in Scotland
 date: '2020-05-30'
-author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/news.yaml
 tags: []
