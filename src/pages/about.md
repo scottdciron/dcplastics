@@ -29,7 +29,9 @@ sections:
 seo:
   type: stackbit_page_meta
   title: About DC Plastic Handrails
-  description: This is the about us page
+  description: >-
+    DC Plastic Handrails is a family run business with over 35 years of
+    experience in fitting plastic handrail capping.
   extra:
     - name: 'og:type'
       value: website
