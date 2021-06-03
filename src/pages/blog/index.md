@@ -8,7 +8,7 @@ sections:
     show_recent: false
 seo:
   type: stackbit_page_meta
-  title: Blog
+  title: Our Work - DC Plastic Handrails
   description: See examples of our work from DC Plastic Handrails
   extra:
     - name: 'og:type'
