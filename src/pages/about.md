@@ -28,7 +28,7 @@ sections:
     background_color: blue
 seo:
   type: stackbit_page_meta
-  title: Who We Are
+  title: About DC Plastic Handrails
   description: This is the about us page
   extra:
     - name: 'og:type'
