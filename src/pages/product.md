@@ -74,7 +74,7 @@ sections:
     type: team_section
 seo:
   type: stackbit_page_meta
-  title: Features
+  title: Product Information - DC Plastic Handrails
   description: This is the features page
   extra:
     - name: 'og:type'
