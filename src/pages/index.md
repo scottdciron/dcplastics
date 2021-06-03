@@ -99,7 +99,10 @@ sections:
 seo:
   type: stackbit_page_meta
   title: DC Plastic Handrails - PVC Handrail Capping UK
-  description: The preview of the Starter theme
+  description: >-
+    DC Plastic Handrails has over 35 years of experience in fitting plastic
+    handrail capping and have grown to become one of the leading fitters of PVC
+    handrail covering in the UK
   extra:
     - name: 'og:type'
       value: website
