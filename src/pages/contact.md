@@ -12,7 +12,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Contact DC Plastic Handrails
-  description: This is the contact page
+  description: Contact DC Plastic Handrails
   extra:
     - name: 'og:type'
       value: website
