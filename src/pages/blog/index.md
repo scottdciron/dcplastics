@@ -9,7 +9,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Blog
-  description: This is the blog page
+  description: See examples of our work from DC Plastic Handrails
   extra:
     - name: 'og:type'
       value: website
