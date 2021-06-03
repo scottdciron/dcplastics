@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: kroW ruO
+    title: Our Work
     align: center
   - type: blog_feed_section
     show_recent: false
