@@ -98,7 +98,7 @@ sections:
       further questions.
 seo:
   type: stackbit_page_meta
-  title: Stackbit Starter Theme
+  title: DC Plastic Handrails - PVC Handrail Capping UK
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
