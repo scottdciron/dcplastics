@@ -54,11 +54,7 @@ sections:
         align: left
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - type: action
-            label: Learn More
-            url: /about
-            style: primary
+        actions: []
   - title: Colours
     team:
       - src/data/team/person-k4gsoa92s.yaml
