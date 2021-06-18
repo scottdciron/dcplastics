@@ -5,9 +5,7 @@ photo_alt: lorem-ipsum
 bio: |
   Available in sizes
 
-  *   40x8
-
-  *   50x8
+  *   *   40x8*   50x8
 type: person
 last_name: RAL9006
 photo: /images/PHAL4_01.jpg
