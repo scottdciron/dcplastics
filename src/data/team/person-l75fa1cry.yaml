@@ -3,16 +3,11 @@ link: lorem-ipsum
 first_name: 'Grey '
 last_name: RAL7045
 photo_alt: lorem-ipsum
-bio: >-
-  ## Lorem ipsum
+bio: |+
+  Available in sizes
 
+  *   40x8
+  *   50x8
 
-  Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-
-
-  - Lorem ipsum
-
-  - dolor sit amet
 type: person
 photo: /images/PHGY4_01.jpg
