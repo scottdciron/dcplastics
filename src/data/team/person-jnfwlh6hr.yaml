@@ -3,16 +3,10 @@ link: lorem-ipsum
 first_name: Wine Red
 last_name: RAL 3005
 photo_alt: lorem-ipsum
-bio: >-
-  ## Lorem ipsum
+bio: |
+  Available in sizes
 
-
-  Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-
-
-  - Lorem ipsum
-
-  - dolor sit amet
+  *   40x8
+  *   50x8
 type: person
 photo: /images/PHWR4_01.jpg
