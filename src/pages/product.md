@@ -70,6 +70,7 @@ sections:
       - src/data/team/person-h7myas568.yaml
       - src/data/team/person-h9xwy5tir.yaml
       - src/data/team/person-1u1929sjz.yaml
+      - src/data/team/person-h6dgfw9cm.yaml
     type: team_section
   - title: Sizes
     team:
