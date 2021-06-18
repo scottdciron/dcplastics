@@ -74,6 +74,7 @@ sections:
       - src/data/team/person-jnfwlh6hr.yaml
       - src/data/team/person-lfq1upwnp.yaml
       - src/data/team/person-l4p2t9mb3.yaml
+      - src/data/team/person-4sptepu60.yaml
     type: team_section
   - title: Sizes
     team:
